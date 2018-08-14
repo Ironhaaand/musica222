@@ -1,6 +1,6 @@
 token=NDc4NzI3MTc4MDY3MTE2MDMz.DlO5ZQ.whmjp4AGipOCVoqv2dYL39zHozU
 owner=201460488037466112
 prefix=&
-game=&help - IronHand Joky
+game=&help | IronHand Joky
 stayinchannel=true
 songinstatus=true
